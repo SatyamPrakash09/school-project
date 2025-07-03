@@ -2,6 +2,8 @@
 
 A console-based Python application to manage student records for a CBSE school. It supports adding, searching, listing, and deleting student data via a simple menu-driven interface.
 
+![school-project](https://socialify.git.ci/SatyamPrakash09/school-project/image?font=Source+Code+Pro&language=1&name=1&owner=1&theme=Auto)
+
 ---
 
 ## 🚀 Features
